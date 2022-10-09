@@ -16,7 +16,7 @@ Duration : **15 Hours**
  
 
 ## Deployed Link
- [click here to see deployed version](https://law-home-page-link.netlify.app/ "Click to Visit Link") 
+ [click here to see deployed version](https://paytm-clone-link.netlify.app/ "Click to Visit Link") 
 
 
 ## Screenshots
